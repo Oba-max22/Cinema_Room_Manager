@@ -25,15 +25,15 @@ Examples
 The greater-than symbol followed by a space (> ) represents the user input. Note that it's not part of the input.
 
 Enter the number of rows:
-* > 6
+> 6
 Enter the number of seats in each row:
-* > 6
+> 6
 
 1. Show the seats
 2. Buy a ticket
 3. Statistics
 0. Exit
-* > 3
+> 3
 
 * Number of purchased tickets: 0
 * Percentage: 0.00%
@@ -44,12 +44,12 @@ Enter the number of seats in each row:
 2. Buy a ticket
 3. Statistics
 0. Exit
-* > 2
+> 2
 
 Enter a row number:
-* > 1
+> 1
 Enter a seat number in that row:
-* > 1
+> 1
 
 Ticket price: $10
 
@@ -57,7 +57,7 @@ Ticket price: $10
 2. Buy a ticket
 3. Statistics
 0. Exit
-* > 3
+> 3
 
 * Number of purchased tickets: 1
 * Percentage: 2.78%
@@ -68,26 +68,26 @@ Ticket price: $10
 2. Buy a ticket
 3. Statistics
 0. Exit
-* > 2
+> 2
 
 Enter a row number:
-* > 1
+> 1
 Enter a seat number in that row:
-* > 1
+> 1
 
 That ticket has already been purchased!
 
 Enter a row number:
-* > 10
+> 10
 Enter a seat number in that row:
-* > 20
+> 20
 
 Wrong input!
 
 Enter a row number:
-* > 4
+> 4
 Enter a seat number in that row:
-* > 4
+> 4
 
 Ticket price: $10
 
@@ -110,7 +110,7 @@ Cinema:
 2. Buy a ticket
 3. Statistics
 0. Exit
-* > 3
+> 3
 
 * Number of purchased tickets: 2
 * Percentage: 5.56%
@@ -121,4 +121,4 @@ Cinema:
 2. Buy a ticket
 3. Statistics
 0. Exit
-* > 0
+> 0
